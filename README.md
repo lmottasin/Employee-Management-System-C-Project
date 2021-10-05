@@ -1,5 +1,11 @@
 # Employee Management System
 This is SPL lab course project for managing employees in a company. This system can help companies to manage their employee information.
+---
+## Technology Used: 
+
+C (Objects, Strings etc.)
+
+---
 
 # Glimpse of working code: 
 
@@ -36,9 +42,6 @@ etc.
 8. Search total no of employees by designation
 
 9. Search employee ids having the given name
+	
 
-   ​	
-
-   ## Technology Used: 
-
-   C (Objects, Strings etc.)
+ 
